@@ -166,6 +166,26 @@ ssh wronguser@localhost
 | Brute Force Detection | ✅ Rule 5712 triggered — Level 10 |
 | Total Events Monitored | 1,134 security events |
 
+## 📸 Screenshots
+
+### MQTT Data Flow — Live Sensor Data
+![MQTT](screenshots/mqtt_data_flow.png)
+
+### Authentication Proof — Anonymous Blocked
+![Auth](screenshots/authorization_proof.png)
+
+### Node-RED Flow Canvas
+![Flow](screenshots/nodered_flow_canvas.png)
+
+### Factory Monitor Dashboard
+![Dashboard](screenshots/nodered_dashboard.png)
+
+### Wazuh Threat Detection — Rule 5712 Level 10
+![Wazuh](screenshots/wazuh_threat_detection.png)
+
+### Node-RED Starting — Connected to Broker
+![NodeRED](screenshots/nodered_start.png)
+
 ---
 
 ## 🌐 Framework Mapping
